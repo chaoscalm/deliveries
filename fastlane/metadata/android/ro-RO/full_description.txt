@@ -1,6 +1,6 @@
-📦 Parcel este o aplicație care te ajută să-ți urmărești toate coletele tale.
+📦 Deliveries este o aplicație care te ajută să-ți urmărești toate coletele tale.
 
-Câteva dintre caracteristicile aplicației Parcel:
+Câteva dintre caracteristicile aplicației Deliveries:
 
 - 📱 Interfață curată și simplă: Concentrează-te doar pe coletele tale, nu pe cum să folosești aplicația.
 - 💬 Notificări: Primește notificări de fiecare dată când un colet primește o nouă actualizare.

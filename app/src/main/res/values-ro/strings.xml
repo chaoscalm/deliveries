@@ -2,7 +2,6 @@
   <string name="about_app">Despre aplicație</string>
   <string name="add_a_parcel">Adaugă un colet</string>
   <string name="add_parcel">Adaugă colet</string>
-  <string name="app_name" translatable="false">Parcel</string>
   <string name="archive">Arhivează</string>
   <string name="archive_prompt_question">Vrei să arhivezi acest colet?</string>
   <string name="archive_prompt_text">Dacă arhivezi acest colet, istoricul său va fi păstrat pe dispozitiv. Acesta nu va fi verificat periodic pentru actualizări.</string>
@@ -39,38 +38,25 @@
   <string name="property_weight">Greutate</string>
   <string name="repository">Depozit</string>
   <string name="save">Salvează</string>
-  <string name="service_4px" translatable="false">4PX</string>
   <string name="service_allegro_onebox">Allegro OneBox</string>
-  <string name="service_an_post" translatable="false">An Post</string>
   <string name="service_belpost">Belpost</string>
-  <string name="service_cainiao" translatable="false">Cainiao</string>
-  <string name="service_dhl" translatable="false">DHL</string>
   <string name="service_dpd_ger">DPD Germania</string>
   <string name="service_dpd_uk">DPD Anglia</string>
-  <string name="service_ekart" translatable="false">eKart</string>
   <string name="service_error_text">Trebuie să selectezi un serviciu.</string>
-  <string name="service_evri" translatable="false">Evri</string>
   <string name="service_example">Poștă exemplu</string>
-  <string name="service_gls" translatable="false">GLS</string>
   <string name="service_gls_hungary">GLS Ungaria</string>
-  <string name="service_hermes" translatable="false">Hermes</string>
   <string name="service_hungarian_post">Poșta Maghiară</string>
   <string name="service_inpost">InPost</string>
   <string name="service_nova_poshta">Nova Post</string>
   <string name="service_orlen_paczka">Orlen Paczka (Polonia)</string>
-  <string name="service_packeta" translatable="false">Packeta</string>
   <string name="service_polish_post">Poșta Poloneză</string>
   <string name="service_poste_italiane">Poșta Italiană</string>
-  <string name="service_postnl" translatable="false">PostNL</string>
-  <string name="service_postnord" translatable="false">PostNord</string>
   <string name="service_sameday_bg">Sameday Bulgaria</string>
   <string name="service_sameday_hu">Sameday Ungaria</string>
   <string name="service_sameday_ro">Sameday România</string>
   <string name="service_spx_th">SPX Thailanda</string>
   <string name="service_ukrposhta">Ukrposhta</string>
   <string name="service_undefined">Nedefinit</string>
-  <string name="service_uniuni" translatable="false">UniUni</string>
-  <string name="service_ups" translatable="false">UPS</string>
   <string name="settings">Setări</string>
   <string name="settings_api_keys">Chei API</string>
   <string name="settings_experimental">Experimental</string>
@@ -105,5 +91,5 @@
   <string name="tracking_id">ID de urmărire</string>
   <string name="tracking_id_error_text">ID-ul de urmărire nu trebuie să rămână necompletat.</string>
   <string name="unmetered_only_setting">Actualizează doar pe rețelele necontorizate</string>
-  <string name="unmetered_only_setting_detail">Dacă această opțiune este activată, Parcel va verifica actualizările coletelor doar pe conexiuni necontorizate, precum Wi-Fi-ul tău de acasă.</string>
+  <string name="unmetered_only_setting_detail">Dacă această opțiune este activată, Deliveries va verifica actualizările coletelor doar pe conexiuni necontorizate, precum Wi-Fi-ul tău de acasă.</string>
 </resources>

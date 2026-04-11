@@ -1,0 +1,7 @@
+- Arhivarea în Parcel este aici! Acum poți arhiva un colet pentru a-i păstra istoricul pe dispozitiv.
+- Serviciile de livrare sunt acum sortate în funcție de faptul că acceptă sau nu ID-ul de urmărire furnizat.
+- Coletele sunt acum afișate în ordinea adăugării lor.
+- Acum poți copia descrierile din istoricul coletelor.
+- S-a remediat problema în care codul poștal nu se salva atunci când era cerut de un serviciu.
+- Belpost: S-au remediat anumite cazuri particulare.
+- UPS: S-au remediat crash-urile în cazul coletelor inexistente.

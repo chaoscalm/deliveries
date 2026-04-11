@@ -1,0 +1,9 @@
+Modificări:
+- DHL ne cere acum să-ți solicităm o cheie proprie pentru API. Urmărirea coletelor DHL nu va funcționa până când nu vei furniza una.
+
+Servicii noi:
+- An Post (IE)
+- eKart (IN)
+- GLS Ungaria
+- Nova Post (UA)
+- Ukrposhta (UA)

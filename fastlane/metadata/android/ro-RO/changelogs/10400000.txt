@@ -1,0 +1,13 @@
+S-au adăugat:
+- Suport pentru limba japoneză și germană
+- Statusuri noi pentru o reprezentare mai precisă a statusului livrării
+
+Modificări:
+- S-au remediat probleme cu: Poste Italiane, PostNord, DPD UK, DPD Germania, și serviciile Sameday
+
+Servicii noi:
+- Cainiao (internațional)
+- 4PX (internațional)
+- InPost (Polonia)
+- Allegro One Box (Polonia)
+- Orlen Paczka (Polonia)

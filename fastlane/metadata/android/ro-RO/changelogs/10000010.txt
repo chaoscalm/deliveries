@@ -1,0 +1,2 @@
+Prima versiune publică a aplicației Parcels este aici!
+Nicio modificare de la 1.0.0 RC 2.2.

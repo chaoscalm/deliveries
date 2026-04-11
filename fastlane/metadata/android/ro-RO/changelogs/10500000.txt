@@ -1,0 +1,7 @@
+Servicii noi:
+- PostNL
+
+Bug-uri:
+- Cainiao: s-au adăugat mai multe coduri pentru status
+- Allegro OneBox: s-a remediat incorectitudinea datei și orei
+- 4PX: s-a remediat un crash atunci când tkTimezone este nul

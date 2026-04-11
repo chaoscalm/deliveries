@@ -1,0 +1,8 @@
+Modificări:
+- S-a adăugat un buton pentru salvarea jurnalelor pentru o raportare mai rapidă a erorilor
+- GLS: Statusul 'Delivered to ParcelShop' este acum gestionat corepunzător
+
+Servicii noi:
+- UniUni (US)
+- Hermes (DE)
+- PostNord

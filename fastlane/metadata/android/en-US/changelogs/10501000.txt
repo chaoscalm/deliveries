@@ -1,0 +1,3 @@
+- App renamed to "Deliveries"
+- Added Romanian translation
+- Migrated to Hermes v2 API
